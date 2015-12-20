@@ -1,0 +1,11 @@
+*.txt
+*.log
+*.key
+*.enc
+*.dec
+*.odt
+*.pdf
+__pycache__/
+*.pyc
+*.pyo
+
