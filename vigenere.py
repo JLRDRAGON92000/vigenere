@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
 ### vigenere.py
-### A modified Vigenere cipher using a 256-character x 256-character tabula recta.
+### A modified Vigenere cipher using a 256-character x 256-character tabula recta,
+### improved pseudorandom key material generation, and an additional substitution
+### table.
 
 ### General process for enciphering a file:
 ### 1. The plaintext message is read from a file specified by the user.
